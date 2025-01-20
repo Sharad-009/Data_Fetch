@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="show_Info"></div>
+    <div class="recent_order">
+      <table border="2px solid black" style="width: 500px;">
+        <thead>
+          <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Image</th>
+            <th>Rating</th>
+            <th>Delete</th>
+          </tr>
+        </thead>
+        <tbody id="showData">
+          <tr>
+            <td>Id</td>
+            <td>Redmi</td>
+            <td>Image</td>
+            <td>5</td>
+            <td><button onclick="deleteItem('${e.id}')">Delete</button></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <button onclick="doTask()">click to show</button>
+    <script src="data_Access.js"></script>
+  </body>
+</html>

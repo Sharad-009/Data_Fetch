@@ -1,0 +1,32 @@
+{
+  "Mobiles": [
+    {
+      "id": "3",
+      "name": "Redmi",
+      "img": "https://w7.pngwing.com/pngs/569/473/png-transparent-xiaomi-mi-12-lite-phone.png",
+      "rating": "4.8 ⭐⭐⭐⭐⭐",
+      "price": "59,000$"
+    },
+    {
+      "id": "4",
+      "name": "Google",
+      "img": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-black-frosted-clear-case-cover-for-google-pixel-8-pro-images/DailyObjects-Black-Frosted-Clear-Case-Cover-For-Google-Pixel-8-Pro-1.png?tr=cm-pad_resize,v-3,w-412,h-490,dpr-2,q-60",
+      "rating": "4.8 ⭐⭐⭐⭐⭐",
+      "price": "85,500$"
+    },
+    {
+      "id": "5",
+      "name": "One Plus",
+      "img": "https://oasis.opstatics.com/content/dam/oasis/page/2023/na/oneplus-11/specs/green-img.png",
+      "rating": "4.8 ⭐⭐⭐⭐⭐",
+      "price": "52,000$"
+    },
+    {
+      "id": "7",
+      "name": "iphone",
+      "img": "https://icon2.cleanpng.com/lnd/20240416/vof/transparent-iphone-15-pro-apple-11-pro-max-smartphone-black-ca-apple-11-pro-max-with-black-case661e4813191a33.65040532.webp",
+      "rating": "4.8 ⭐⭐⭐⭐⭐",
+      "price": "1.21,000$"
+    }
+  ]
+}

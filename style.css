@@ -1,0 +1,31 @@
+#show_Info{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+h3{
+    text-align: center;
+}
+img{
+    width: 280px;
+    height: 270px;
+
+}
+#card{
+    border: 1px solid gray;
+    padding: 7px;
+
+}
+#id_Name{
+    display: flex;
+    justify-content: space-between;
+}
+#clickBtn{
+    display: flex;
+    justify-self: center;
+    padding: 10px 15px;
+}
+#clickBtn:active{
+    transform: scale(0.8);
+}
